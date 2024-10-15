@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Marcos Diaz</h1>
 
+### My team Repo
+[Compile and Conquer - AppXpert](https://nataliekline.github.io/GVSU-CIS641-CompileAndConquer/)
+
+## About our team project
+We are working on a mobile app to simplify the experience for students looking for their first job. The main functionality is to maintain the information from all the job applications in one place, have reminders for interviews or status updates and manage the dates for each process using a calendar. The idea is to simplify the stress and confusion associated with managing mutiple applications.
+
 ### About me
-- I am a software developer in a company that develops a video games. 
-- I love the world of music and I have been playing the bass guitar for about 10 years. I'm not that good but it's honest work.
+- I have been playing the bass guitar for about 10 years. I'm not that good but it's honest work.
 - I would like to learn a little more about programming microprocessors like arduino and similar. I promised to learn it during pandemic time but I couldn't.
+- I have a cat called legolas. it behaves like a dog. 
 
 ### Technical Background
 I'm Backend Developer with over 7 years of experience working with teams over industries such as Games, Delivery, E-commerce, Health and Insurance. My main technologies are Java, Kotlin, Spring Boot and lately I have been working with technologies such as PHP and lua.

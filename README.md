@@ -3,7 +3,7 @@
 ### My team Repo
 [Compile and Conquer - AppXpert](https://nataliekline.github.io/GVSU-CIS641-CompileAndConquer/)
 
-## About our team project
+#### About our team project
 We are working on a mobile app to simplify the experience for students looking for their first job. The main functionality is to maintain the information from all the job applications in one place, have reminders for interviews or status updates and manage the dates for each process using a calendar. The idea is to simplify the stress and confusion associated with managing mutiple applications.
 
 ### About me
